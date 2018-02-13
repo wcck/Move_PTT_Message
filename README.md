@@ -1,2 +1,3 @@
 # move_ptt_message
-使用爬蟲來擷取留言資料
+使用爬蟲來擷取PTT電影版的留言資料
+並將資料存進movie_message.txt中
